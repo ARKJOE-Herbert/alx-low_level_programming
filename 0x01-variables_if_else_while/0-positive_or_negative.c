@@ -5,7 +5,7 @@
 /*betty style doc for function main goes there*/
 /**
  * main - Determine if a number is positive, negative or zero.
-i *
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
